@@ -1,3 +1,4 @@
+#Here are some cool Vscode Shortcuts to automate keyboard functions.
 # Opening project
 
 # ctrl+` : terminal
