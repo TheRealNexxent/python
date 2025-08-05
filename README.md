@@ -15,3 +15,10 @@ Granted, my approach may not be the best approach. In fact, I would urge the pro
 
 I hope you enjoy reading this data as much as I enjoyed embarking on this endeavour.
 Godspeed.
+
+
+
+
+
+
+I like to code python everyday.
