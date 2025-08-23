@@ -32,4 +32,3 @@ rohan.getinfo()
 harry.greet()
 harry.greetstatic()
 #self is a convention, but you can write anything, vcc, rrrr, kasdjlask, etc. Just make sure to keep vcc.salary as well then and so on.
-

@@ -22,7 +22,7 @@ else:
 print("Thank you for using the age checker!")
 
 
-#Figure out which if is working with elif and else. If can work independently, elif and else are dependent on if.
+# Figure out which if is working with elif and else. If can work independently, elif and else are dependent on if.
 # If the first if is true, the rest will not be checked.
 # If the first if is false, the elif will be checked, and if it is true, the else will not be checked.
 # If the first if and elif are false, the else will be executed.
