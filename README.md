@@ -215,5 +215,3 @@ class math:
 ```
 
 > Static methods are `Not changing, staying the same..` do not have access to any instance. `They dont change anything.`
-
-[Back to Top](https://github.com/TheRealNexxent/python/tree/oopss#:~:text=README-,OOPS,-IN%20PYTHON)
